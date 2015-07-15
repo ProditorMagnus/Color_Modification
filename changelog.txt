@@ -1,0 +1,19 @@
+1.0.0
+
+First version. Includes new color definitions of Rav_pink, Rav_yellow, Rav_cyan, Rav_blue_light, Rav_purple_light
+
+1.0.1
+
+Added village flags coloring
+Added separate setting about lightblue
+Made the options variables be cleared once they are no longer needed
+
+1.0.2
+
+Changed default false to no
+
+
+
+
+ToDo:
+"do something that shows new colors" for icon
