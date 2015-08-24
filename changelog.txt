@@ -12,8 +12,10 @@ Made the options variables be cleared once they are no longer needed
 
 Changed default false to no
 
+1.1.0
 
-
+Suppressed warning message if Ageless_Era is installed, as I included the color definitions of Rav_pink, Rav_yellow, Rav_cyan, Rav_blue_light, Rav_purple_light there too
+Changed defaults
 
 ToDo:
 "do something that shows new colors" for icon
