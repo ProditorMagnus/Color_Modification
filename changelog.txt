@@ -23,5 +23,5 @@ Use better? way to fire modify_side
 Keep options variables for unsynced menu
 Use combobox for blue
 
-ToDo:
-"do something that shows new colors" for icon
+1.1.1a
+"do something that shows new colors" for addon icon
