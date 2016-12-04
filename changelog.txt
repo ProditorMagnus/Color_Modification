@@ -17,5 +17,10 @@ Changed default false to no
 Suppressed warning message if Ageless_Era is installed, as I included the color definitions of Rav_pink, Rav_yellow, Rav_cyan, Rav_blue_light, Rav_purple_light there too
 Changed defaults
 
+1.1.1
+
+Use better? way to fire modify_side
+Keep options variables for unsynced menu
+
 ToDo:
 "do something that shows new colors" for icon
