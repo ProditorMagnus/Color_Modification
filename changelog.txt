@@ -25,3 +25,8 @@ Use combobox for blue
 
 1.1.1a
 "do something that shows new colors" for addon icon
+
+1.2
+Require addon for everyone
+Use new wesnoth.set_side_id to change color without changing flag
+Display name changed to Color Changer
