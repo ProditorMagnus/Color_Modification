@@ -30,3 +30,6 @@ Use combobox for blue
 Require addon for everyone
 Use new wesnoth.set_side_id to change color without changing flag
 Display name changed to Color Changer
+
+1.2.1
+Add name to color_range
