@@ -33,3 +33,6 @@ Display name changed to Color Changer
 
 1.2.1
 Add name to color_range
+
+1.2.2
+Add id and first_time_only=yes to event
