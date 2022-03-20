@@ -36,3 +36,4 @@ Add name to color_range
 
 1.2.2
 Add id and first_time_only=yes to event
+Change [combo] to [choice]
