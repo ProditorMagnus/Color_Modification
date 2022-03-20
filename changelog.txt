@@ -36,4 +36,6 @@ Add name to color_range
 
 1.2.2
 Add id and first_time_only=yes to event
+
+1.2.3
 Change [combo] to [choice]
