@@ -39,3 +39,7 @@ Add id and first_time_only=yes to event
 
 1.2.3
 Change [combo] to [choice]
+
+1.2.3a
+Enable modification in campaigns
+Update Lua API
