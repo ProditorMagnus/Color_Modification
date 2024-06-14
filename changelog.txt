@@ -46,3 +46,6 @@ Update Lua API
 
 1.2.3b
 Set addon required but accept any version of it - no need to prevent 1.2.3 and 1.2.3a playing together
+
+1.2.4
+Add priority=10 to event
