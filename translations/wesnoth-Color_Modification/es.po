@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Color_Modification\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2025-12-30 12:45\n"
+"PO-Revision-Date: 2025-12-30 12:54-0300\n"
+"Last-Translator: Sebastián Lecchini <sebas38760@gmail.com>\n"
+"Language-Team: es\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [color_range]
+#: Color_Modification/_main.cfg:10
+msgid "Pink"
+msgstr "Rosa"
+
+#. [color_range]
+#: Color_Modification/_main.cfg:15
+msgid "Yellow"
+msgstr "Amarillo"
+
+#. [color_range]
+#: Color_Modification/_main.cfg:20
+msgid "Cyan"
+msgstr "Cian"
+
+#. [color_range]
+#: Color_Modification/_main.cfg:25
+msgid "Blue"
+msgstr "Azul"
+
+#. [color_range]
+#: Color_Modification/_main.cfg:30
+msgid "Purple"
+msgstr "Púrpura"
+
+#. [modification], id=Rav_Color_Mod
+#: Color_Modification/_main.cfg:36
+msgid "Color Changer"
+msgstr "Cambiar colores"
+
+#. [modification], id=Rav_Color_Mod
+#: Color_Modification/_main.cfg:37
+msgid ""
+"The addon that aims to improve playing experience by replacing uncomfortable "
+"and dark colors with brighter ones. The only changed color with everything "
+"disabled will be Gold instead of Brown.\n"
+" \n"
+"version "
+msgstr ""
+"Este complemento busca mejorar la experiencia de juego reemplazando colores "
+"incómodos y oscuros por otros más brillantes. El único color que cambia con "
+"todo desactivado será el oro en lugar del marrón.\n"
+" \n"
+"versión "
+
+#. [modification], id=Rav_Color_Mod
+#: Color_Modification/_main.cfg:39
+msgid " by Ravana"
+msgstr " por Ravana"
+
+#. [checkbox], id=Rav_Color_Yellow
+#: Color_Modification/_main.cfg:46
+msgid "Yellow instead of Gold"
+msgstr "Amarillo en lugar de oro"
+
+#. [checkbox], id=Rav_Color_Yellow
+#: Color_Modification/_main.cfg:47
+msgid "Brown is replaced with Yellow instead of gold with this setting checked"
+msgstr ""
+"El marrón se reemplaza por amarillo en lugar de oro cuando esta opción está "
+"marcada"
+
+#. [choice], id=Rav_Color_Blue
+#: Color_Modification/_main.cfg:52
+msgid "This, instead of Blue: "
+msgstr "Esto, en lugar de azul: "
+
+#. [choice], id=Rav_Color_Blue
+#: Color_Modification/_main.cfg:53
+msgid "Change shade of blue"
+msgstr "Cambiar tono de azul"
+
+#. [item]
+#: Color_Modification/_main.cfg:55
+msgid "Light Blue"
+msgstr "Azul claro"
+
+#. [item]
+#: Color_Modification/_main.cfg:59
+msgid "Dark Blue (no change)"
+msgstr "Azul oscuro (sin cambios)"
+
+#. [item]
+#: Color_Modification/_main.cfg:63
+msgid "Teal Light Blue"
+msgstr "Azul verdoso claro"
+
+#. [checkbox], id=Rav_Color_Purple
+#: Color_Modification/_main.cfg:70
+msgid "Light Purple instead of Purple"
+msgstr "Púrpura claro en lugar de púrpura"
+
+#. [checkbox], id=Rav_Color_Purple
+#: Color_Modification/_main.cfg:71
+msgid "Purple is replaced with Light Purple with this setting checked"
+msgstr ""
+"El púrpura se reemplaza por púrpura claro cuando esta opción está marcada"
+
+#. [checkbox], id=Rav_Color_Cyan
+#: Color_Modification/_main.cfg:76
+msgid "Cyan instead of Teal"
+msgstr "Cian en lugar de Turquesa"
+
+#. [checkbox], id=Rav_Color_Cyan
+#: Color_Modification/_main.cfg:77
+msgid "Teal is replaced with Cyan with this setting checked"
+msgstr "El Turquesa se reemplaza por cian cuando esta opción está marcada"
+
+#. [checkbox], id=Rav_Color_Pink
+#: Color_Modification/_main.cfg:82
+msgid "Pink instead of Black"
+msgstr "Rosa en lugar de negro"
+
+#. [checkbox], id=Rav_Color_Pink
+#: Color_Modification/_main.cfg:83
+msgid "Black (Gray) is replaced with Pink with this setting checked"
+msgstr "El negro (gris) se reemplaza por rosa cuando esta opción está marcada"
