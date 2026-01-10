@@ -1,0 +1,19 @@
+author="Ravana"
+description="The addon that aims to improve playing experience by replacing uncomfortable and dark colors with brighter ones.
+ 
+I would appreciate feedback about what other colors to add."
+email=""
+icon="flags/long-flag-1.png~FL()~O(0)~SCALE(72,72)~BLIT(flags/flag-icon.png~BLEND(255,0,0,1),0,0)~BLIT(flags/flag-icon.png~BLEND(71,151,255,1),4,12)~BLIT(flags/flag-icon.png~BLEND(98,182,100,1),8,24)~BLIT(flags/flag-icon.png~BLEND(255,0,255,1),12,36)~BLIT(flags/flag-icon.png~BLEND(255,192,203,1),16,48)~BLIT(flags/flag-icon.png~BLEND(237,203,12,1),30,0)~BLIT(flags/flag-icon.png~BLEND(255,243,90,1),34,12)~BLIT(flags/flag-icon.png~BLEND(255,170,0,1),38,24)~BLIT(flags/flag-icon.png~BLEND(255,255,255,1),42,36)~BLIT(flags/flag-icon.png~BLEND(0,255,255,1),46,48)~SCALE(72,72)"
+passphrase=""
+title="Color Changer"
+type="mod_mp"
+version=""
+[feedback]
+    topic_id=39116
+[/feedback]
+[translation]
+    language="es"
+	title="Cambiar Colores"
+    description="Este complemento tiene como objetivo mejorar la experiencia de juego reemplazando colores incómodos y oscuros por otros más brillantes.
+Agradecería comentarios sobre qué otros colores debería añadir."
+[/translation]
